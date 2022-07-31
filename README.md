@@ -1,10 +1,33 @@
 # LernPortal
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.15.
 
-## Development server
+## How to run UI
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Step 1
+
+Run the command `yarn` to install the packages.
+
+# Step 2
+
+Run the command `npm run start` to start the ui.
+
+
+## How to setup server
+
+# Step 1
+
+Go to server folder `cd server` and Run the command `yarn` to install packages.
+
+# Step 2
+
+Run the command `npm run start` to start the server.
+
+# Step 3
+
+Now go to browser and open [Lern-portal](http://localhost:3000/).
+
+
 
 ## Code scaffolding
 
