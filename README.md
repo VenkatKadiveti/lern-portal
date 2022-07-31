@@ -8,22 +8,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run the command `yarn` to install the packages.
 
-# Step 2
+### Step 2
 
 Run the command `npm run start` to start the ui.
 
 
 ## How to setup server
 
-# Step 1
+### Step 1
 
 Go to server folder `cd server` and Run the command `yarn` to install packages.
 
-# Step 2
+### Step 2
 
 Run the command `npm run start` to start the server.
 
-# Step 3
+### Step 3
 
 Now go to browser and open [Lern-portal](http://localhost:3000/).
 
