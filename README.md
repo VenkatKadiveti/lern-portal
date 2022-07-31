@@ -6,11 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Step 1
 
-Run the command `yarn` to install the packages.
+Run the command `yarn` under root folder to install the packages.
 
 ### Step 2
 
-Run the command `npm run start` to start the ui.
+Run the command `npm run dev` to start the ui.
 
 
 ## How to run server
