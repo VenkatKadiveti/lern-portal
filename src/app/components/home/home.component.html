@@ -1,0 +1,19 @@
+<div class="d-flex flex-row justify-content-center">
+    <div [formGroup]="userForm" class="content">
+        <div class="d-flex flex-row justify-content-center">
+            <p class="df-header">Enter your name and id to start discussion</p>
+        </div>
+        <mat-card  class="d-flex flex-column justify-content-center">
+            <mat-form-field>
+                <mat-label>Username</mat-label>
+                <input formControlName="username" matInput type="text">
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Identifier</mat-label>
+                <input formControlName="identifier" matInput type="text">
+            </mat-form-field>
+            <button class="btn margin-right" [disabled]="!userForm.valid"  (click)="onLogin()">LOGIN</button>
+        </mat-card>
+    </div>
+</div>
