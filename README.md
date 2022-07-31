@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## How to run UI
 
-# Step 1
+### Step 1
 
 Run the command `yarn` to install the packages.
 
