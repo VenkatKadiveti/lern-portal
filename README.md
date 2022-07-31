@@ -13,7 +13,7 @@ Run the command `yarn` to install the packages.
 Run the command `npm run start` to start the ui.
 
 
-## How to setup server
+## How to run server
 
 ### Step 1
 
