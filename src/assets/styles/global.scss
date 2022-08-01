@@ -39,6 +39,29 @@ body {
   }
 }
 
+.dark-mode-toggle:focus {
+  outline: none;
+}
+
+.dark-mode-toggle {
+  border: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  padding: 0px;
+  background: none;
+  cursor: pointer;
+  transition: all .3s ease-in-out;
+
+  &:hover {
+    outline: none;
+    background: var(--primary-menu-link-active);
+    border-radius: 50%;
+  }
+}
+
 .font-italic {
   font-style: italic;
 }
